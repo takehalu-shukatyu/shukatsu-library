@@ -1,0 +1,6 @@
+{
+  "key": "ministry-health",
+  "name_ja": "厚生労働省",
+  "url": "https://www.mhlw.go.jp/",
+  "format": "（出典：厚生労働省, ${year}）"
+}
